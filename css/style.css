@@ -61,12 +61,6 @@ body {
   margin: 1rem;
 }
 
-/* @media screen and (max-width: 26.25em) {
-  .form__inner {
-    padding: 1rem;
-  }
-} */
-
 label {
   font-size: 1rem;
   font-weight: 600;
